@@ -1,4 +1,4 @@
-# wxa-plugin-canvas
+# wx-draw-image
 小程序组件-小程序海报组件
    <a href="https://www.npmjs.com/package/wxa-plugin-canvas"><img src="https://img.shields.io/npm/v/wxa-plugin-canvas.svg?style=flat" alt="npm"></a>
    <a href="https://www.npmjs.com/package/wxa-plugin-canvas"><img src="https://img.shields.io/npm/dm/wxa-plugin-canvas.svg?style=flat" alt="npm"></a>
